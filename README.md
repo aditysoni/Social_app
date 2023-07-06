@@ -1,7 +1,3 @@
-# FullStack Social Media App
-
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
-
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
-
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+MERN_APP
+I social media app where you get to register , login and authorization using JWT . 
+You can add friends , add profile picture , post your toughts or daily activities which can be liked by the users of the app . 
